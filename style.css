@@ -1,0 +1,78 @@
+body
+{
+    background-size:cover;
+    background-position: center;
+    text-align:center;
+    font-size:25px;
+    font-size:bolder;
+}
+
+a
+{
+    color:black;
+    font-weight: bolder;
+    font-size:20px;
+    text-decoration: none;
+}
+
+#bed
+{
+    background-color: gray;
+    height:30px;
+    width:75px;
+    padding:10px;
+    margin:50px;
+}
+
+#bottle
+{
+    background-color: gray;
+    height:30px;
+    width:75px;
+    padding:10px;
+    margin:50px;
+}
+
+#basket
+{
+    background-color: gray;
+    height:30px;
+    width:75px;
+    padding:10px;
+    margin:50px;
+}
+
+#laptop
+{
+    background-color: gray;
+    height:30px;
+    width:75px;
+    padding:10px;
+    margin:50px;
+}
+
+#tv
+{
+    background-color: gray;
+    height:30px;
+    width:75px;
+    padding:10px;
+    margin:50px;
+}
+
+h2
+{
+    height:7%;
+    width:100%;
+    background-color:rgb(177, 37, 84);
+    font-weight:bold;
+    padding:10px;
+}
+
+canvas
+{
+    margin:50px;
+    border: 2px dotted wheat;
+    box-shadow: 10px 10px 10px red;
+    padding:7px;
+}
